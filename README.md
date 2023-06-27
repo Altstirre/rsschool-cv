@@ -1,2 +1,2 @@
-# Markdown & Git
+# rsschool-cv
 Hi
