@@ -17,16 +17,19 @@ Office, bars, restaurants, factories, warehouse and even a cleaner. None of this
 >At the moment I am studying at the Rolling Scopes School as a JS / FRONT-END developer, and only learn the basics of layout and languages like HTML 5, CSS 3 and JS.
 
 >I hope my perseverance and thirst for learning something new and interesting will be enough to learn and master this profession and enter the IT world.
+
 ***
 ## My Skills and Proficiency:
 + Basics HTML5 and CSS3.
 + Git, GitHub.
 + VS Code, IntelliJ IDEA.
 + Sequencers - StudioOne6, Reaper.
+  
 ***
 ## Courses:
 + <https://code-basics.com> HTML5 and SCC3 basics.
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+  
 ***
 ## Languages:
 + Russian - Native.
