@@ -6,6 +6,7 @@
 #### **email:** altstirre@gmail.com.
 #### **[Instagram](https://www.instagram.com/altstirre/)**
 ***
+
 ## About Myself:
 >My name is Dmitry. I am a musician. The main direction of music is heavy metal.
 
@@ -19,6 +20,7 @@ Office, bars, restaurants, factories, warehouse and even a cleaner. None of this
 >I hope my perseverance and thirst for learning something new and interesting will be enough to learn and master this profession and enter the IT world.
 
 ***
+
 ## My Skills and Proficiency:
 + Basics HTML5 and CSS3.
 + Git, GitHub.
