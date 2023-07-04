@@ -1,1 +1,73 @@
+body{
+font-family: Verdana, monospace;
+color: #2F4F4F;
+text-align: center;
+margin:0px 0px 0px 0px;
+font-variant: small-caps;
+font-size: 19px;
+line-height: 20px
+}
 
+a{
+text-decoration: none;}
+
+.header{
+height: 50px;
+background-color: #A9A9A9;
+}
+
+.navigation{
+padding-top: 14px;
+padding-right: 15px;
+float: right;
+}
+
+.navlinks{
+padding-right:15px;}
+
+.name{
+margin-top:0px;
+margin-bottom:10px;
+padding-top:30px;
+padding-bottom: 30px;}
+
+.main{
+background-color: #DCDCDC;
+padding-left: 15px;
+}
+
+.infobox{
+}
+
+.imgcontacts{
+padding-right: 10px;}
+
+#aboutmyself{
+ text-align: center;
+ }
+
+.footer{
+height: 50px;
+background-color: #A9A9A9;
+}
+
+.githubicon{
+ float:right;
+ padding: 0px 34px 0px 0px;}
+
+.githublink{
+float:right;
+padding: 0px 10px 0px 0px;}
+
+.ulbottom{
+margin-top: 0px;
+margin-bottom: 0px;
+padding-bottom: 30px;
+}
+
+.yeardevelop{
+text-align: left;
+margin-top: 0px;
+margin-bottom: 0px;
+padding: 17px 34px 0px 35px;}
+}
