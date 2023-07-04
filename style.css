@@ -1,1 +1,27 @@
+.name{
+font-variant:small-caps;
+position: absolute; left: 44%; top: 30px;
+}
+.photo{
+position: relative;
+margin: 70px; top: 40px;}
 
+.navigation{
+position: absolute; bottom: 94%; left: 75%;
+}
+
+.aboutmyself{
+ display: flex; justify-content: right;
+ position:absolute; left: 50%; bottom: 12%;
+ margin: 0px 250px 0px 0px;
+ }
+
+ .h2aboutmyself{
+ display: flex; justify-content: right;
+  position:absolute; left: 48%; bottom: 45.5%}
+ }
+
+ .languages{
+  position: absolute; left: 50%; bottom: 12%;
+  margin: 0px 250px 0px 0px;
+ }
