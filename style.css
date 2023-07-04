@@ -36,14 +36,15 @@ background-color: #DCDCDC;
 padding-left: 15px;
 }
 
-.infobox{
-}
-
 .imgcontacts{
 padding-right: 10px;}
 
+.infobox{
+padding: 0px 38% 0px 38%;
+}
+
 #aboutmyself{
- text-align: center;
+ padding: 0px 20% 0px 20%;
  }
 
 .footer{
@@ -60,6 +61,7 @@ float:right;
 padding: 0px 10px 0px 0px;}
 
 .ulbottom{
+padding: 0px 38% 0px 38%;
 margin-top: 0px;
 margin-bottom: 0px;
 padding-bottom: 30px;
