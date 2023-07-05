@@ -28,11 +28,13 @@ Office, bars, restaurants, factories, warehouse and even a cleaner. None of this
 + Sequencers - StudioOne6, Reaper.
   
 ***
+
 ## Courses:
 + <https://code-basics.com> HTML5 and SCC3 basics.
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ***
+
 ## Languages:
 + Russian - Native.
 + Ukrainian - Native.
