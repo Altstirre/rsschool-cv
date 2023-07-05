@@ -5,34 +5,54 @@ text-align: center;
 margin:0px 0px 0px 0px;
 font-variant: small-caps;
 font-size: 19px;
-line-height: 20px
+line-height: 40px
 }
 
+hr{
+width: 0.5%;
+padding-left: 80%;
+margin: auto;}
+
 a{
-text-decoration: none;}
+color: #000;
+text-decoration: none;
+}
+
 
 .header{
 height: 50px;
-background-color: #A9A9A9;
+background-color: #87CEEB;
 }
 
 .navigation{
-padding-top: 14px;
-padding-right: 15px;
-float: right;
+padding-top: 0.2%;
+padding-left: 10%;
+float: center;
 }
 
 .navlinks{
-padding-right:15px;}
+padding-right:10%;
+}
 
 .name{
 margin-top:0px;
 margin-bottom:10px;
-padding-top:30px;
-padding-bottom: 30px;}
+padding-top:60px;
+}
+
+.underline-name{
+height: 1px;
+width: 0.5%;
+padding-left: 25%;
+margin: auto;}
+
+.photo{
+padding-top: 30px;
+padding-bottom: 30px;
+}
 
 .main{
-background-color: #DCDCDC;
+background-color: #B0E0E6;
 padding-left: 15px;
 }
 
@@ -48,8 +68,8 @@ padding: 0px 38% 0px 38%;
  }
 
 .footer{
-height: 50px;
-background-color: #A9A9A9;
+height: 80px;
+background-color: #87CEEB;
 }
 
 .githubicon{
@@ -62,14 +82,12 @@ padding: 0px 10px 0px 0px;}
 
 .ulbottom{
 padding: 0px 38% 0px 38%;
-margin-top: 0px;
-margin-bottom: 0px;
-padding-bottom: 30px;
+margin: auto;
+padding-bottom: 130px;
 }
 
 .yeardevelop{
 text-align: left;
-margin-top: 0px;
-margin-bottom: 0px;
-padding: 17px 34px 0px 35px;}
+margin: auto;
+padding: 17px 34px 0px 30px;}
 }
