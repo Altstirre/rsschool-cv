@@ -4,8 +4,8 @@ color: #2F4F4F;
 text-align: center;
 margin:0px 0px 0px 0px;
 font-variant: small-caps;
-font-size: 19px;
-line-height: 40px
+font-size: 15px;
+line-height: 35px;
 }
 
 hr{
@@ -16,28 +16,36 @@ margin: auto;}
 a{
 color: #000;
 text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+}
+
+a:hover {
+    background-size: 100% 2px;
 }
 
 
 .header{
-height: 50px;
+height: 40px;
 background-color: #87CEEB;
 }
 
 .navigation{
-padding-top: 0.2%;
 padding-left: 10%;
 float: center;
 }
 
 .navlinks{
-padding-right:10%;
+margin-right:10%;
 }
 
 .name{
 margin-top:0px;
 margin-bottom:10px;
-padding-top:60px;
+padding-top:50px;
 }
 
 .underline-name{
@@ -68,7 +76,7 @@ padding: 0px 38% 0px 38%;
  }
 
 .footer{
-height: 80px;
+height: 70px;
 background-color: #87CEEB;
 }
 
@@ -83,7 +91,7 @@ padding: 0px 10px 0px 0px;}
 .ulbottom{
 padding: 0px 38% 0px 38%;
 margin: auto;
-padding-bottom: 130px;
+padding-bottom: 70px;
 }
 
 .yeardevelop{
