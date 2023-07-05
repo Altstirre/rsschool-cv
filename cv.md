@@ -6,6 +6,7 @@
 #### **email:** altstirre@gmail.com.
 #### **[Instagram](https://www.instagram.com/altstirre/)**
 ***
+
 ## About Myself:
 >My name is Dmitry. I am a musician. The main direction of music is heavy metal.
 
@@ -19,6 +20,7 @@ Office, bars, restaurants, factories, warehouse and even a cleaner. None of this
 >I hope my perseverance and thirst for learning something new and interesting will be enough to learn and master this profession and enter the IT world.
 
 ***
+
 ## My Skills and Proficiency:
 + Basics HTML5 and CSS3.
 + Git, GitHub.
@@ -26,11 +28,13 @@ Office, bars, restaurants, factories, warehouse and even a cleaner. None of this
 + Sequencers - StudioOne6, Reaper.
   
 ***
+
 ## Courses:
 + <https://code-basics.com> HTML5 and SCC3 basics.
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-  
+
 ***
+
 ## Languages:
 + Russian - Native.
 + Ukrainian - Native.
